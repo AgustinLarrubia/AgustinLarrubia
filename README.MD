@@ -1,4 +1,4 @@
-## **Hi there! 🦦 **
+## **Hi there!** 🦦
 
   I am an undergraduate student in Computer Science at National University of Rosario 🇦🇷 looking for industry experience as a programmer. I enjoy tackling challenging business  problems and thrive in environments that promote cooperation, team-work and knowledge sharing. 
   
