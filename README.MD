@@ -8,5 +8,5 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
   #### **Other**
-  ![Git](https://img.shields.io/badge/Git-f34f29?style=flat&logo=git&logoColor=white)
+  ![git](https://img.shields.io/badge/git-f34f29?style=flat&logo=git&logoColor=white)
   ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007fff?style=flat&logo=VisualStudioCode&logoColor=white)
