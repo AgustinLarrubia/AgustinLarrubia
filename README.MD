@@ -12,4 +12,4 @@
   #### **Other**
   ![git](https://img.shields.io/badge/git-f34f29?style=flat&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007fff?style=flat&logo=VisualStudioCode&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=flat&logo=VIsualStudio&logoColor=5d2b90)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5d2b90?style=flat&logo=VIsualStudio&logoColor=white)
