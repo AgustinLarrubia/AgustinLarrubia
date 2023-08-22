@@ -9,6 +9,11 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=ffdd54)
   ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 
+  #### **Web development**
+
+  ![HTML](https://img.shields.io/badge/HTML-fc6a03?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-035096?style=flat&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
   #### **Other**
   ![git](https://img.shields.io/badge/git-f34f29?style=flat&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007fff?style=flat&logo=VisualStudioCode&logoColor=white)
