@@ -4,8 +4,9 @@
 
   #### **Languages**
   ![C](https://img.shields.io/badge/-808080?style=flat&logo=c&logoColor=white)
-  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=javascript&logoColor=ffdd54)
+  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 
   #### **Other**
   ![git](https://img.shields.io/badge/git-f34f29?style=flat&logo=git&logoColor=white)
