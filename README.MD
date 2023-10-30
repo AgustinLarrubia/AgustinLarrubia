@@ -11,8 +11,11 @@
 
   #### **Web development**
 
+  ![Angular](https://img.shields.io/badge/Angular-dd1b16?style=flat&logo=angular&logoColor=fff)
   ![HTML](https://img.shields.io/badge/HTML-fc6a03?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-035096?style=flat&logo=css3&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=flat&logo=sass&logoColor=fff)
+  ![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=flat&logo=angular&logoColor=fff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
   #### **Other**
   ![git](https://img.shields.io/badge/git-f34f29?style=flat&logo=git&logoColor=white)
