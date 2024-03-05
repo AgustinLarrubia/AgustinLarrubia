@@ -1,6 +1,6 @@
 ## **Hi there!** 🦦
 
-  I am an undergraduate student in Computer Science at National University of Rosario 🇦🇷 looking for industry experience as a programmer. I enjoy tackling challenging business  problems and thrive in environments that promote cooperation, team-work and knowledge sharing. 
+  I am an undergraduate student in Computer Science at National University of Rosario 🇦🇷 Actually working as a Front End Developer at ABS-TI for an important Insurance Company. I enjoy tackling challenging business  problems and thrive in environments that promote cooperation, team-work and knowledge sharing. 
 
   #### **Languages**
   ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=ffffff)
